@@ -2,7 +2,21 @@
 
 This repository contains projects I completed while working through *Python Crash Course, 3rd Edition* by Eric Matthes.
 
-The repository focuses on two major projects from the book: data visualization with Python and the development of a Django web application.
+The repository contains the three major projects from the book: the Alien Invasion game, data visualization with Python, and the development of a Django web application.
+
+## Project 1: Alien Invasion
+
+The `project_1_alien_invasion` directory contains a 2D space-invasion game developed with Python and Pygame.
+
+Features include:
+
+- Player-controlled spaceship
+- Alien fleets
+- Bullet firing and collision detection
+- Scoring and high-score tracking
+- Multiple difficulty levels
+- Play button and game-state management
+- Image-based game sprites
 
 ## Project 2: Data Visualization
 
@@ -43,6 +57,8 @@ Features include:
 ## Technologies
 
 - Python
+
+- Pygame
 - Django
 - Matplotlib
 - Plotly
